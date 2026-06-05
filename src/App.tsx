@@ -25,6 +25,7 @@ function App() {
   const competitiveLinks=[
     { url: "https://codeforces.com/profile/nxllptr", name: "Codeforces" },
     { url: "https://cses.fi/user/432740", name: "CSES" },
+    { url: "https://leetcode.com/u/nxllptr/", name: "LeetCode" },
     { url: "https://tryhackme.com/p/nxllptr", name: "TryHackMe" }
   ]
 
